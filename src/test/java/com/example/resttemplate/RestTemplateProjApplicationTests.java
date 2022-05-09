@@ -1,4 +1,4 @@
-package com.example.resttemplate.resttemplateproj;
+package com.example.resttemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
